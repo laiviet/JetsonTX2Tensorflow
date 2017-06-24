@@ -1,5 +1,8 @@
 # JetsonTX2Tensorflow
-Prebuild tensorflow for JetsonTX2
+Prebuild tensorflow for Nvidia Jetson TX2.
+
+Please kindly to leave a report or push your prebuild versions.
+Many thanks.
 
 ## Python 2.7
 Tensorflow 1.1.0
